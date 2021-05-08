@@ -1,0 +1,4 @@
+#Fri May 07 15:07:24 CST 2021
+base.0=C\:\\hw\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
